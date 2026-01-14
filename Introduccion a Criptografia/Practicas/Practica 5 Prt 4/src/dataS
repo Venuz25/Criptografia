@@ -1,0 +1,7 @@
+z    | 0 1 2 3 4 5 6 7 8 9 A B C D E F 
+S(z) | 2 0 E 7 3 B D 8 1 5 6 F 9 A C 4 
+
+z       | 0 1 2 3 4 5 6 7 8 9 A B C D E F 
+S^-1(z) | 1 8 0 4 F 9 A 3 7 C D 5 E 6 2 B 
+
+K: 2A0B1F29
